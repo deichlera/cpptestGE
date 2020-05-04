@@ -1,0 +1,4 @@
+﻿  DllGE.cpp
+G:\source\cpptestGE\DllGE\DllGE\DllGE.h(40,2): warning C4091: '__declspec(dllexport)': ignored on left of 'Vector' when no variable is declared
+G:\source\cpptestGE\DllGE\DllGE\DllGE.h(69,2): warning C4091: '__declspec(dllexport)': ignored on left of 'Matrix' when no variable is declared
+  DllGE.vcxproj -> G:\source\cpptestGE\DllGE\Debug\DllGE.dll
